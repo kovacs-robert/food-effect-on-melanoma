@@ -19,8 +19,8 @@ import { EMBED_OPTS, buildTooltips } from './chart-spec';
     <section>
       <h2>
         {{ lang.lang() === 'hu'
-          ? '5. A 20 legmagasabb melanóma-incidenciájú ország'
-          : '5. Top 20 countries by melanoma incidence' }}
+          ? '2. A 20 legmagasabb melanóma-incidenciájú ország'
+          : '2. Top 20 countries by melanoma incidence' }}
       </h2>
       <div #host class="map"></div>
       <p class="caption">

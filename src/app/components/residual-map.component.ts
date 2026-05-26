@@ -19,8 +19,8 @@ import { EMBED_OPTS, buildTooltips, mapSpec } from './chart-spec';
     <section>
       <h2>
         {{ lang.lang() === 'hu'
-          ? '3. Hol „magyarázza\" az étrend a rákadatokat – és hol nem?'
-          : '3. Where does diet "explain" cancer rates — and where doesn\\'t it?' }}
+          ? '5. Hol „magyarázza\" az étrend a rákadatokat – és hol nem?'
+          : '5. Where does diet "explain" cancer rates — and where doesn\\'t it?' }}
       </h2>
       <div #host class="map"></div>
       @if (lang.lang() === 'hu') {
