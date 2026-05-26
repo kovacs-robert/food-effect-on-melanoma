@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(ng version *)",
+      "Bash(mkdir -p docs/legacy)",
+      "Bash(git mv *)",
+      "Bash(ng new *)",
+      "Bash(cp _scaffold/.editorconfig .)",
+      "Bash(cp _scaffold/angular.json .)",
+      "Bash(cp _scaffold/package.json .)",
+      "Bash(cp _scaffold/tsconfig.json .)",
+      "Bash(cp _scaffold/tsconfig.app.json .)",
+      "Bash(node *)"
+    ]
+  }
+}
