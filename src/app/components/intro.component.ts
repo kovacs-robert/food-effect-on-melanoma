@@ -43,7 +43,7 @@ import { LanguageService } from '../services/language.service';
           élelmiszerek) és 1 (teljes egészében finomított termékek) között mozog.
         </p>
         <p>
-          A harmadik térképen egyetlen globális egyenest illesztünk az összes országra —
+          A negyedik térképen egyetlen globális egyenest illesztünk az összes országra —
           <span class="mono">melanoma_asr ≈ -2,74 + 0,0603 × processed_kg_per_capita</span> —
           és minden országot annak függvényében színezünk, hogy a tényleges értéke mennyivel
           tér el ettől a becsléstől.
