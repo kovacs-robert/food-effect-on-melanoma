@@ -48,13 +48,6 @@ import { LanguageService } from '../services/language.service';
           és minden országot annak függvényében színezünk, hogy a tényleges értéke mennyivel
           tér el ettől a becsléstől.
         </p>
-        <div class="caveat">
-          <strong>Fontos figyelmeztetés.</strong> A melanóma kockázatát döntően az ultraibolya
-          sugárzás és a bőr pigmentációja határozza meg. Az étrend összetétele erősen
-          összefügg a földrajzi szélességgel és a nemzeti jövedelmi szinttel, így az itt
-          látható étel–rák összefüggések erősen torzítottak. Ezek a térképek a kérdés
-          <em>felvetésére</em> szolgálnak, nem oksági kapcsolat bizonyítására.
-        </div>
       </section>
     } @else {
       <h1>Does what we eat shape our risk of skin cancer?</h1>
@@ -98,12 +91,6 @@ import { LanguageService } from '../services/language.service';
           and color each country by how far its actual rate sits above or below that
           prediction.
         </p>
-        <div class="caveat">
-          <strong>Important caveat.</strong> Melanoma risk is dominated by ultraviolet
-          exposure and skin pigmentation. Diet composition strongly co-varies with latitude
-          and national wealth, so any visible food–cancer pattern here is heavily confounded.
-          These maps are designed to <em>frame</em> a question, not to prove a causal link.
-        </div>
       </section>
     }
   `,
