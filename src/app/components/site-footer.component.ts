@@ -8,11 +8,11 @@ import { LanguageService } from '../services/language.service';
     <footer>
       @if (lang.lang() === 'hu') {
         <span>
-        Polacsek Péter, Kovács Róbert, 2024. A bőrrák és az étrend összefüggései.
+        Polacsek Péter, Kovács Róbert, 2026. A bőrrák és az étrend összefüggései.
         </span>
       } @else {
         <span>
-        Péter Polacsek, Róbert Kovács, 2024. The relationship between skin cancer and diet.
+        Péter Polacsek, Róbert Kovács, 2026. The relationship between skin cancer and diet.
         </span>
       }
     </footer>
